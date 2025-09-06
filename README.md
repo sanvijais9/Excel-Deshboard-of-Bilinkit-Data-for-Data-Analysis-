@@ -1,2 +1,7 @@
-I Have use pivot table for Analysis the data and we have the sliser tool and charts as well.
-this deshboard is include all the key points for data analysis .
+you’ll learn how to analyze data, clean it, and create meaningful insights. Perfect for beginners and aspiring data analysts!
+What you’ll learn
+How to clean and organize raw data in Excel
+Applying Excel functions for analysis
+Creating Pivot Tables for summarizing data
+Building charts & dashboards for visualization
+Real-world Data Analysis project example
